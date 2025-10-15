@@ -62,3 +62,4 @@ function getBotResponse(message) {
         return "❓ اسألني عن: الأسعار، مدة التسليم، طرق الدفع، أو عينات مجانية\n📧 للتواصل: abdnoun.flw@gmail.com";
     }
 }
+sendMessage();
